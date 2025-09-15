@@ -93,7 +93,7 @@ pip install -r requirements.txt
 
 ### Dataset Preparation
 
-Place your dataset in the `dataset/` directory with the following structure:
+Place your dataset in the `data/` directory with the following structure:
 
 ```
 data/
@@ -108,6 +108,8 @@ data/
 ```
 
 ---
+
+Read the data/readme to know more about data source and structure
 
 ## Training the Model
 
